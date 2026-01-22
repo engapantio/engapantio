@@ -85,6 +85,6 @@ If you are interested in collaboration, feedback on code, or frontend-focused wo
 
 
 - **goit-js-hw-12**  
-  Vanilla JS homework project No. 12, working with asynchronous requests, DOM updates, and modular JS structure. [file:3]  
+  Vanilla JS homework project No. 12, working with asynchronous requests, DOM updates, and modular JS structure. 
   Repo: https://github.com/engapantio/goit-js-hw-12
 
