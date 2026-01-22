@@ -75,13 +75,14 @@ If you are interested in collaboration, feedback on code, or frontend-focused wo
 
 ## 💻Featured Projects  
 
+- **leleka-01-team-project**  
+  Authentication-focused Next.js app with protected routes and user login/logout flows for user-friendly tracking of pregnancy development.
+  Repo: https://github.com/engapantio/leleka-01-team-project
+  
 - **09-auth**  
   Authentication-focused React app with protected routes and user login/logout flows.  
   Repo: https://github.com/engapantio/09-auth
 
-- **03-react-movies**  
-  React movie search and browsing app built as Homework 02, practicing routing, API data handling, and component composition. [file:2]  
-  Repo: https://github.com/engapantio/03-react-movies
 
 - **goit-js-hw-12**  
   Vanilla JS homework project No. 12, working with asynchronous requests, DOM updates, and modular JS structure. [file:3]  
