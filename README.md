@@ -63,7 +63,7 @@
 ![English](https://img.shields.io/badge/English-C2-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Spanish](https://img.shields.io/badge/Spanish-A2-lightgrey?style=flat-square)
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
 
 ---
 
