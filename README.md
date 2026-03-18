@@ -1,6 +1,6 @@
 # Hi, I'm Bohdan 👋
 
-##  Junior Fullstack Developer | React | Node.js   
+##  Junior Fullstack Developer | React | Node.js | Python 
 
 ---
 
