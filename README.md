@@ -6,7 +6,7 @@
 
 - 🌍 Currently based in **Warsaw, Poland** 
 - 💻 Focused on **frontend** with solid experience in **JavaScript, HTML5, CSS3, React, Vite**   
-- 🌱 Expanding skills in **backend fundamentals** (Node.js, APIs, relational databases, Django basics)  
+- 🌱 Expanding skills in **backend fundamentals** (Node.js, APIs, relational databases, Django DRF basics)  
 - 🧩 Enjoy solving practical problems and refactoring existing codebases  
 - 🌐 Portfolio entry: `https://github.com/engapantio` 
 
@@ -17,7 +17,7 @@
 - **Languages**: <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript (ES6+)-yellow?style=for-the-badge">
 , <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-lightblue?style=for-the-badge">
 , <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge">
- (learning), <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-btightgreen?style=for-the-badge">
+, <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-btightgreen?style=for-the-badge">
 , <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-magenta?style=for-the-badge">
   
 - **Frontend**: <img alt="Static Badge" src="https://img.shields.io/badge/React-darkblue?style=for-the-badge">
